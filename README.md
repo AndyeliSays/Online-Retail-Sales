@@ -18,7 +18,7 @@ The goal of this analysis is to transform raw sales data into meaningful insight
 
 The dataset consists of 3 raw tables: Customers, Transactions, and Categories that we will clean in EXCEL: 
 
-<img src=https://github.com/AndyeliSays/Online-Retail-Sales/blob/main/assets/Cleaning_process.png>
+<img src=(https://github.com/AndyeliSays/Online-Retail-Sales/blob/main/assets/Cleaning_process.png) width =300 >
 
 ## Tools
 - Data cleaning and Exploration using EXCEL

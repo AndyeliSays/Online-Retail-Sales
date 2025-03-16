@@ -30,7 +30,7 @@ The dataset consists of 3 raw tables: Customers, Transactions, and Categories th
 ---
 
 # Insights
-The analysis of our online retail operation reveals several significant patterns about customer behavior and sales metrics. Our retail platform has successfully engaged 5,508 customers who have completed 20,880 transactions, generating a gross revenue of $54,453,885.07. The business maintains a return rate of 10.79%. The data shows consistent year-over-year growth from 2011 through 2014, demonstrating the business's overall positive trajectory. The time-series chart reveals seasonal patterns in our sales data, with noticeable peaks during certain months. 
+The analysis of our online retail operation reveals several significant patterns about customer behavior and sales metrics. Our retail platform has successfully engaged 5,508 customers who have completed 20,880 transactions, generating a gross revenue of $54,453,885.07. The business maintains a return rate of 10.79% and shows consistent year-over-year growth from 2011 through 2014, demonstrating the business's overall positive trajectory. Our time-series chart reveals seasonal patterns in our sales data, with noticeable peaks during certain months. 
 ## Multiple Stores
 The multi-channel strategy shows varying degrees of effectiveness across our city locations:
 - City stores collectively generate $19,824,816.05 (40.7% of total revenue)

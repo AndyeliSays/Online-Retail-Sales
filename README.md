@@ -30,7 +30,7 @@ The dataset consists of 3 raw tables: Customers, Transactions, and Categories th
 ---
 
 # Insights
-The analysis of our online retail operation reveals several significant patterns about customer behavior and sales metrics. Our retail platform has successfully engaged 5,508 customers who have completed 20,880 transactions, generating a gross revenue of $54,453,885.07. The business maintains a return rate of 10.79% and shows consistent year-over-year growth from 2011 through 2014, demonstrating the business's overall positive trajectory. Our time-series chart reveals seasonal patterns in our sales data, with noticeable peaks during certain months. 
+The analysis of our online retail operation reveals several significant patterns about customer behavior and sales metrics. Our retail platform has successfully engaged 5,508 customers who have completed 20,880 transactions, generating a gross revenue of $54,453,885.07. The business maintains a return rate of 10.79% and shows consistent year-over-year growth from 2011 through 2014, demonstrating the business's overall positive trajectory.
 ## Multiple Stores
 The multi-channel strategy shows varying degrees of effectiveness across our city locations:
 - City stores collectively generate $19,824,816.05 (40.7% of total revenue)
@@ -39,8 +39,9 @@ The multi-channel strategy shows varying degrees of effectiveness across our cit
 - Flagship stores bring in $9,364,781.08 (19.3% of total revenue)
 City 1 stands out as our highest-performing location with $4,770,496.06 in sales, followed closely by City 10 ($4,863,301.69) and City 2 ($4,858,308.99). This suggests that our urban concentration strategy is effective, particularly in these high-performing metropolitan areas.
 ## Customer Demographics and Purchasing Behavior
-The age group analysis reveals that the 40-44 demographic represents our most valuable customer segment, followed by the 45-49 age group. This middle-aged consumer base appears to have the highest purchasing power among our customers.
-Gender distribution in sales shows a relatively balanced picture with a slight male spending advantage (M: $24,955,632.51 vs F: $23,623,513.23). This balanced gender distribution indicates our product mix appeals across genders, though there may be opportunities to strengthen appeal in specific categories.
+- The age group analysis reveals that the 40-44 demographic represents our most valuable customer segment, followed by the 45-49 age group. This middle-aged consumer base appears to have the highest purchasing power among our customers.
+- Gender distribution in sales shows a relatively balanced picture with a slight male spending advantage (M: $24,955,632.51 vs F: $23,623,513.23).
+This balanced gender distribution indicates our product mix appeals across genders, though there may be opportunities to strengthen appeal in specific categories.
 ## Product Performance and Customer Purchasing Patterns
 Strong performance in electronics, clothing, and home/kitchen categories. Product basket analysis shows:
 - Single-product transactions (4633) generate $3,049,766.49 in revenue

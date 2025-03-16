@@ -16,7 +16,7 @@ The goal of this analysis is to transform raw sales data into meaningful insight
 - How do different store types (e.g., e-Shop, TeleShop) compare in performance?
 - What are the top contributing factors to successful sales growth?
 
-The dataset consists of 3 tables: Customers, Transactions, and Categories.
+The dataset consists of 3 raw tables: Customers, Transactions, and Categories that we will clean in EXCEL: 
 
 <img src=https://github.com/AndyeliSays/Online-Retail-Sales/blob/main/assets/Cleaning_process.png>
 

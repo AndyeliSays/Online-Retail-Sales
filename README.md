@@ -1,4 +1,4 @@
-EXCEL DASHBOARD -> [Online_Retail_Sales.xlsx](https://github.com/AndyeliSays/Online-Retail-Sales/blob/main/Online_retail_sales.xlsx)
+<h1 align="center"> EXCEL DASHBOARD -> [Online_Retail_Sales.xlsx](https://github.com/AndyeliSays/Online-Retail-Sales/blob/main/Online_retail_sales.xlsx) </h1>
 
 <img src=https://github.com/AndyeliSays/Online-Retail-Sales/blob/main/assets/Online_retail_sales_excel_dashboard.png>
 

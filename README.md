@@ -2,7 +2,7 @@ EXCEL DASHBOARD -> [Online_Retail_Sales.xlsx](https://github.com/AndyeliSays/Onl
 
 <img src=https://github.com/AndyeliSays/Online-Retail-Sales/blob/main/assets/Online_retail_sales_excel_dashboard.png>
 
-# Online Retail Sales Analysis
+<h1 align="center">Online Retail Sales Analysis</h1>
 
 ## Introduction:
 The online retail sector generates massive amounts of data daily, spanning customer transactions, product details, and sales performance. Analyzing this data can uncover actionable insights to enhance business strategies, optimize revenue streams, and improve customer experiences. This project focuses on analyzing online retail sales data to identify trends and patterns.

@@ -44,8 +44,8 @@ City 1 stands out as our highest-performing location with $4,770,496.06 in sales
 This balanced gender distribution indicates our product mix appeals across genders, though there may be opportunities to strengthen appeal in specific categories.
 ## Product Performance and Customer Purchasing Patterns
 Strong performance in electronics, clothing, and home/kitchen categories. Product basket analysis shows:
-- Single-product transactions (4633) generate $3,049,766.49 in revenue
-- As the number of products per transaction increases, so does the total revenue, with 5+ product baskets (4716 transactions) generating $16,495,651.00
+- Single-product transactions (4633) generate $3,049,766.49 in revenue.
+- As the number of products per transaction increases, so does the total revenue, with 5+ product baskets (4716 transactions) generating $16,495,651.00.
 ## Recommendations
 - Optimize the product mix in underperforming city locations to mirror the success patterns of City 1 and City 10
 - Develop targeted marketing campaigns for the 40-49 age demographic while implementing strategies to increase engagement with younger consumer segments

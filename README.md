@@ -25,7 +25,7 @@ The dataset consists of 3 raw tables: Customers, Transactions, and Categories th
 - Data visualizations made in EXCEL
 
 ## Data Source:
-[Retail Dataset](https://www.kaggle.com/datasets/mohammadkaiftahir/airline-dataset/data)
+[Retail Dataset](https://www.kaggle.com/datasets/tanushagarwal01/online-retail-sales-analysis?select=Transactions.csv)
 
 ---
 

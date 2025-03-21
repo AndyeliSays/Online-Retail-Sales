@@ -5,10 +5,10 @@
 <h1 align="center">Online Retail Sales</h1>
 
 ## Introduction:
-The online retail sector generates massive amounts of data daily, spanning customer transactions, product details, and sales performance. Analyzing this data can uncover actionable insights to enhance business strategies, optimize revenue streams, and improve customer experiences. This project focuses on analyzing online retail sales data to identify trends and patterns.
+This project uses online retail sales data to identify key drivers of revenue growth. The goal of this analysis is to transform raw sales data into meaningful insights that can drive informed decision-making for online retail businesses. Key areas for improvement include customer segmentation for targeted marketing strategies, seasonal sales trends, customer purchasing behaviors, and the performance of specific product categories.
 
 ## Business Task & Objectives:
-The goal of this analysis is to transform raw sales data into meaningful insights that can drive informed decision-making for online retail businesses. We will be using EXCEL to explore and answer key business questions such as:
+We will be using EXCEL to explore and answer key business questions such as:
 
 - What are the most popular product categories and subcategories? Revenue?
 - Which cities generate the highest revenue?

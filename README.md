@@ -38,15 +38,18 @@ The multi-channel strategy shows varying degrees of effectiveness across our cit
 - E-Shop contributes $9,715,688.19 (20.0% of total revenue)
 - MBR accounts for $9,674,486.08 (19.9% of total revenue)
 - Flagship stores bring in $9,364,781.08 (19.3% of total revenue)
-City 1 stands out as our highest-performing location with $4,770,496.06 in sales, followed closely by City 10 ($4,863,301.69) and City 2 ($4,858,308.99). This suggests that our urban concentration strategy is effective, particularly in these high-performing metropolitan areas.
+- City 1 stands out as our highest-performing location with $4,770,496.06 in sales, followed closely by City 10 ($4,863,301.69) and City 2 ($4,858,308.99).
+  - This suggests that our urban concentration strategy is effective, particularly in these high-performing metropolitan areas.
 ## Customer Demographics and Purchasing Behavior
-- The age group analysis reveals that the 40-44 demographic represents our most valuable customer segment, followed by the 45-49 age group. This middle-aged consumer base appears to have the highest purchasing power among our customers.
+- The age group analysis reveals that the 40-44 demographic represents our most valuable customer segment, followed by the 45-49 age group.
+  - This middle-aged consumer base appears to have the highest purchasing power among our customers.
 - Gender distribution in sales shows a relatively balanced picture with a slight male spending advantage (M: $24,955,632.51 vs F: $23,623,513.23).
-This balanced gender distribution indicates our product mix appeals across genders, though there may be opportunities to strengthen appeal in specific categories.
+  - This balanced gender distribution indicates our product mix appeals across genders, though there may be opportunities to strengthen appeal in specific categories.
 ## Product Performance and Customer Purchasing Patterns
-Strong performance in electronics, clothing, and home/kitchen categories. Product basket analysis shows:
-- Single-product transactions (4633) generate $3,049,766.49 in revenue.
-- As the number of products per transaction increases, so does the total revenue, with 5+ product baskets (4716 transactions) generating $16,495,651.00.
+- Strong performance in electronics, clothing, and home/kitchen categories.
+- Product basket analysis shows:
+  - Single-product transactions (4633) generate $3,049,766.49 in revenue.
+  - As the number of products per transaction increases, so does the total revenue, with 5+ product baskets (4716 transactions) generating $16,495,651.00.
 <h1 align="center">Recommendations</h1>
 
 - Optimize the product mix in underperforming city locations to mirror the success patterns of City 1 and City 10
